@@ -1,0 +1,11 @@
+{
+  "mod.mcrd.name": "Mcreator检测器",
+  "message.mcrd.find": "找到了 {i} 个模组是由 Mcreator 制作的。",
+  "message.mcrd.name": "模组名称: {names}",
+  "message.mcrd.id": "模组id: {ids}",
+  "message.mcrd.details":"具体详细信息请参见保存在游戏目录中的 output.txt 文件。",
+  "file.mcrd.details": "详细信息:",
+  "commands.mcrd.detecting": "检测中...",
+  "commands.mcrd.killed": "请使用 /reload 命令重新加载模组。",
+  "commands.mcrd.done": "完毕。"
+}

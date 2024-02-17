@@ -1,0 +1,11 @@
+{
+  "mod.mcrd.name": "Mcreator Detector",
+  "message.mcrd.find": "Found {i} mod made by Mcreator.",
+  "message.mcrd.name": "Mod names: {names}",
+  "message.mcrd.id": "Mod ids: {ids}",
+  "message.mcrd.details":"See the output.txt file saved in the game directory for details.",
+  "file.mcrd.details": "Details:",
+  "commands.mcrd.detecting": "Detecting...",
+  "commands.mcrd.killed": "Please use /reload command to reload mods.",
+  "commands.mcrd.done": "Done."
+}
